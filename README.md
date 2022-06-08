@@ -1,5 +1,7 @@
 Projeto do curso de Docker / Kubernets
 
+=================================================================
+
 Para criação e utilização da imagem, dentro da pasta ./src digite os seguintes comandos: 
 
 • docker build -t conversao-temperatura:v1 .
