@@ -6,7 +6,7 @@ Para criação e utilização da imagem, dentro da pasta ./src digite os seguint
 
 • docker run -d -p 8080:8080 conversao-temperatura:v1
 
-===============================================================================================================
+=================================================================
 
 Para utilizar um kubertes faça a instalação do k3d e do kubectl.
 
